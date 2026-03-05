@@ -1,7 +1,14 @@
 {
     "recommendations": [
+        "EditorConfig.EditorConfig",
         "github.remotehub",
         "github.vscode-pull-request-github",
-        "github.vscode-github-actions"
+        "github.vscode-github-actions",
+        "redhat.java",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-gradle",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "shengchen.vscode-checkstyle"
     ]
 }
