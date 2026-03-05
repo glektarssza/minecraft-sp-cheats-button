@@ -1,11 +1,12 @@
-# Repository Template #
+# Minecraft Mod - Singleplayer Cheats Button #
 
-A starter template for my repositories.
+A Minecraft mod that adds a button to the pause menu for toggling cheats on/off
+in singleplayer.
 
 <!-- omit in toc -->
 ## Table of Contents ##
 
-* [Repository Template](#repository-template)
+* [Minecraft Mod - Singleplayer Cheats Button](#minecraft-mod---singleplayer-cheats-button)
     * [About](#about)
     * [Setup](#setup)
     * [License](#license)
@@ -61,41 +62,49 @@ This template repository is set up to support the following:
         * Update the title.
         * Update the description.
         * Remove everything else except license.
+    * [ ] Done
     * `LICENSE.md`
         * Change license to your project license.
+    * [ ] Done
     * `CONTRIBUTING.md`
         * Update code style guidelines (if applicable).
+    * [ ] Done
     * `CODE_OF_CONDUCT.md`
         * Update project administrators (if applicable).
+    * [ ] Done
     * `SECURITY.md`
         * Update where to report security vulnerabilities.
         * Update support versions table.
+    * [ ] Done
     * `.cspell/dictionaries/project.txt`
         * Remove all words and add those you do need.
+    * [ ] Done
     * `.github/FUNDING.yml`
         * Add your funding information (if applicable).
+    * [ ] Done
     * `.github/CODEOWNERS`
         * Set your code owners (if applicable).
-1. Link `.gitconfig` into repository config by adding the following snippet into
+    * [ ] Done
+2. Link `.gitconfig` into repository config by adding the following snippet into
    your local `.git/config` at the top:
 ```ini
 [include]
     path="../.gitconfig"
 ```
-* [ ] Done
-2. Run `./scripts/setup-pre-commit.sh` to install and configure `pre-commit`.
-* [ ] Done
-3. Set up GitHub labels from the `.github/labels.yaml` file (if applicable).
-* [ ] Done
-4. Set up GitHub rulesets from the files inside `.github/samples/rulesets`
+   * [ ] Done
+3. Run `./scripts/setup-pre-commit.sh` to install and configure `pre-commit`.
+   * [ ] Done
+4. Set up GitHub labels from the `.github/labels.yaml` file (if applicable).
+   * [ ] Done
+5. Set up GitHub rulesets from the files inside `.github/samples/rulesets`
    (if applicable).
-* [ ] Done
-5. Update GitHub Dependabot setup (if applicable).
-* [ ] Done
-6. Enable VSCode integrations.
-* [ ] Done
-7. Good to go!
-* [ ] Yay!
+   * [ ] Done
+6. Update GitHub Dependabot setup (if applicable).
+   * [ ] Done
+7. Enable VSCode integrations.
+   * [ ] Done
+8. Good to go!
+   * [ ] Yay!
 
 ## License ##
 
