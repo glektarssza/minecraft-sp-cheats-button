@@ -87,11 +87,11 @@ This template repository is set up to support the following:
     * [ ] Done
 2. Link `.gitconfig` into repository config by adding the following snippet into
    your local `.git/config` at the top:
+   * [ ] Done
 ```ini
 [include]
     path="../.gitconfig"
 ```
-   * [ ] Done
 3. Run `./scripts/setup-pre-commit.sh` to install and configure `pre-commit`.
    * [ ] Done
 4. Set up GitHub labels from the `.github/labels.yaml` file (if applicable).
