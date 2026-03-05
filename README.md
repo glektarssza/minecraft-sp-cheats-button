@@ -64,7 +64,7 @@ This template repository is set up to support the following:
         * Remove everything else except license.
     * [ ] Done
     * `LICENSE.md`
-        * Change license to your project license.
+        * Change license to your project license (if applicable).
     * [ ] Done
     * `CONTRIBUTING.md`
         * Update code style guidelines (if applicable).
@@ -78,13 +78,13 @@ This template repository is set up to support the following:
     * [ ] Done
     * `.cspell/dictionaries/project.txt`
         * Remove all words and add those you do need.
-    * [ ] Done
+    * [x] Done
     * `.github/FUNDING.yml`
         * Add your funding information (if applicable).
-    * [ ] Done
+    * [x] Done
     * `.github/CODEOWNERS`
         * Set your code owners (if applicable).
-    * [ ] Done
+    * [x] Done
 2. Link `.gitconfig` into repository config by adding the following snippet into
    your local `.git/config` at the top:
    * [ ] Done
