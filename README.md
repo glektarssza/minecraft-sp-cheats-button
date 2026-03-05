@@ -65,17 +65,17 @@ This template repository is set up to support the following:
     * [ ] Done
     * `LICENSE.md`
         * Change license to your project license (if applicable).
-    * [ ] Done
+    * [x] Done
     * `CONTRIBUTING.md`
         * Update code style guidelines (if applicable).
-    * [ ] Done
+    * [x] Done
     * `CODE_OF_CONDUCT.md`
         * Update project administrators (if applicable).
-    * [ ] Done
+    * [x] Done
     * `SECURITY.md`
         * Update where to report security vulnerabilities.
         * Update support versions table.
-    * [ ] Done
+    * [x] Done
     * `.cspell/dictionaries/project.txt`
         * Remove all words and add those you do need.
     * [x] Done

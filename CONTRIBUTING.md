@@ -8,6 +8,7 @@
     * [Submitting Pull Requests](#submitting-pull-requests)
         * [Branch Naming Conventions](#branch-naming-conventions)
         * [Pull Request Conventions](#pull-request-conventions)
+        * [Code Style](#code-style)
 
 ## General ##
 
@@ -102,3 +103,12 @@ manager.
 
 You should assign pull request reviewers. Ideally your chosen reviewers would be
 one expert in the region of code changed and one non-expert.
+
+### Code Style ###
+
+Code must adhere to the style rules set out and enforced by the linting tools.
+
+You should run `./gradlew check` prior to submitting pull requests. Pull
+requests are automatically checked for linting by GitHub Actions. Any pull
+requests which fail linting will not be merged until they pass the automated
+linting checks.
