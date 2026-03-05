@@ -1,4 +1,4 @@
-package com.glektarssza.sp_cheat_button.platform;
+package com.glektarssza.sp_cheats_button.platform;
 
 import com.glektarssza.sp_cheats_button.Constants;
 import com.glektarssza.sp_cheats_button.platform.services.IPlatformHelper;
