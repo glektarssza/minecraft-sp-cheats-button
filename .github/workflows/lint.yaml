@@ -3,7 +3,7 @@ name: Lint
 on:
   workflow_call:
     inputs:
-      git-ref:
+      ref:
         description: |
           The Git reference to run the workflow on.
 
@@ -37,6 +37,7 @@ jobs:
         name: Clone the repository
         uses: actions/checkout@v6
         with:
+          ref: ${{inputs.ref}}
           lfs: true
           token: ${{secrets.github-token || secrets.GITHUB_TOKEN}}
       - id: prepare-python
