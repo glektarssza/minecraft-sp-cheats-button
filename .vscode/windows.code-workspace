@@ -114,7 +114,7 @@
         "java.import.generatesMetadataFilesAtProjectRoot": false,
         "java.import.gradle.annotationProcessing.enabled": true,
         "java.import.gradle.enabled": true,
-        "java.import.gradle.java.home": "${env:HOME}/scoop/apps/temurin21-jdk/current/",
+        "java.import.gradle.java.home": "${env:HOME}/scoop/apps/temurin17-jdk/current/",
         "java.import.gradle.offline.enabled": false,
         "java.import.gradle.version": "8.13",
         "java.import.gradle.wrapper.enabled": true,
