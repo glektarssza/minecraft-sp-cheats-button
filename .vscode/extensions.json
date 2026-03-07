@@ -10,5 +10,6 @@
         "vscjava.vscode-java-debug",
         "vscjava.vscode-java-test",
         "shengchen.vscode-checkstyle"
-    ]
+    ],
+    "unwantedRecommendations": ["vscjava.vscode-java-pack"]
 }
